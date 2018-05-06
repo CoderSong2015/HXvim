@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/haolin/work/trafodion/incubator-trafodion'
+let g:netrw_dirhist_2='/home/haolin/work/trafodion/incubator-trafodion/dcs/src/main/resources'
+let g:netrw_dirhist_3='/home/haolin/work/trafodion/incubator-trafodion/core/conn/odbc/src/odbc/nsksrvr/Interface'
+let g:netrw_dirhist_4='/home/haolin/work/trafodion/incubator-trafodion/core/conn/odbc/src/odbc/nsksrvr'
